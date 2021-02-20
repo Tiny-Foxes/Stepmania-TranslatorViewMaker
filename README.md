@@ -4,7 +4,7 @@ Now there's no need to wonder!
 This program will make a translator view file for your translation .ini and make you translation job easier
 ## How to use it
 You will need python 3 to run this program and to have configparser installed in it (python pip install configparser).
-Just run the program with your favorite python enviroment, type the full name of your ini file (needs to be at the same folder as the program for now, also make sure to have no duplicate lines in your file),
+Just run the program with your favorite python enviroment, type the full name of your ini file (needs to be at the same folder as the program for now, also make sure to have no duplicate lines in your file using the Translation-Toolkit).
 Type a theme name or any other name as an extra note, select 1 or 2 for the type of lines you want to have (more on that later) and done!
 ## Line types?
 Due to request I made 2 types of lines:

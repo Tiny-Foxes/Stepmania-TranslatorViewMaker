@@ -16,3 +16,8 @@ Since this is my very first shared program I focused on making it just work for 
 
 ### The program seems to crash after choosing the type
 Did you check for duplicates? It seems for now to be the only way to make this script crash in purpose, but if you did run the duplicate checker on your ini and it still crashes just send me your source file and I'll check if I can fix it.
+Also sadly type 2 doesn't fully work right with lines that exist in multiple sections like HeaderText and HelpText, will probably get fixed in the future.
+
+## Screenshots
+![Type 1](https://user-images.githubusercontent.com/74380856/109875232-de27c480-7c78-11eb-81c1-81b521c40eed.jpg)
+![Type 2](https://user-images.githubusercontent.com/74380856/109876059-f6e4aa00-7c79-11eb-82bc-52a04f7cb97e.jpg)
